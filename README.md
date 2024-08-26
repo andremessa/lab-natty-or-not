@@ -14,6 +14,6 @@ Utilizei o "ChatGPT" para criar a história através de um prompt com uma breve 
 ## 🚀 Resultados
 O e-book apresenta uma história envolvente e criativa, demonstrando como a inteligência Artificial pode ajudar a humanidade a alcançar coisas incríveis.
 
-<a href="https://drive.google.com/file/d/1pUCrOWFftqTutC9aYEuG7L8WqPDDJvN7/view?usp=sharing" target="_blank" >[LINK PARA O E-BOOK AQUI]</a>
+<a href="https://github.com/andremessa/lab-natty-or-not/blob/main/Sophie%20e%20Yoda%20Conquistando%20o%20Universo%20com%20IA.pdf" target="_blank" >[LINK PARA O E-BOOK AQUI]</a>
 
 
